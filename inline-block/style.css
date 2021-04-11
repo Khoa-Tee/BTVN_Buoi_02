@@ -1,108 +1,91 @@
 .demo_1 {
-    background-color: palegreen;
-    
-    
-  }
-  .demo-inline-1 {
-  
-    background-color: #333;
-    width: 50px;
-    height: 50px;
-    display: inline-block;
-    
-  }
-  
-  /* Viết Code để chữ E nằm giữa */
-  .demo_2 {
-    margin-bottom: 16px;
-    background-color: lemonchiffon;
-    text-align: center;
-  }
-  .demo-inline-2 {
-    
-    display: inline-block;
-    background-color: #333;
-    width: 50px;
-    height: 50px;
-   
-  }
-  
-  /* Viết Code để chữ N nằm giữa */
-  .demo_3 {
-    background-color: lightskyblue;
-    text-align: right;
-  }
-  .demo-inline-3{
-  
-    display: inline-block;
-    background-color: #333;
-    width: 50px;
-    height: 50px;
-  
-  }
-  
-/* Viết Code để chữ Z nằm giữa */
+  background-color: palegreen;
+}
+
+.demo-inline-1 {
+  background-color: #333;
+  margin-left: 3px;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+
+.demo_2 {
+  background-color: lemonchiffon;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.demo-inline-2 {
+  background-color: #333;
+  margin-left: 3px;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+
+.demo_3 {
+  background-color: lightskyblue;
+  text-align: right;
+  margin-bottom: 15px;
+}
+
+.demo-inline-3{
+  background-color: #333;
+  margin-left: 3px;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+
+.right{
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
 .demo_4 {
-    background-color: palegreen;
-    
-    
-  }
-  .demo-inline-4 {
-   
-    background-color: #333;
-    width: 50px;
-    height: 50px;
-    display:inline-block;
-    margin-bottom: 50px;
-    ;
-    
-  }
-  .demo-inline-4-2 {
+  background-color: palegreen;
+  margin-bottom: 15px;
+}
 
-    background-color: #333;
-    width: 50px;
-    height: 100px;
-    display:inline-block;
-   
-  }
+.demo-inline-4 {
+  background-color: #333;
+  margin-left: 3px;
+  width: 50px;
+  height: 50px;
+  display:inline-block;
+  vertical-align: top;
+}
 
-  .demo_5 {
-    margin-bottom: 16px;
-    background-color: lemonchiffon;
-    text-align: center;
-  }
-  .demo-inline-5 {
-  
-    display: inline-block;
-    background-color: #333;
-    width: 50px;
-    height: 100px;
-  }
-  .demo-inline-5-2 {
+.demo_5 {
+  background-color: lemonchiffon;
+  margin-bottom: 15px;
+  text-align: center;
+}
 
-    background-color: #333;
-    width: 50px;
-    height: 50px;
-    display:inline-block;
-    margin-bottom: 25px;
-   
-  }
-  .demo_6 {
-    background-color: lightskyblue;
-    text-align: right;
-  }
-  .demo-inline-6{
-  
-    display: inline-block;
-    background-color: #333;
-    width: 50px;
-    height: 50px;
-  
-  }
-  .demo-inline-6-2{
-  
-    display: inline-block;
-    background-color: #333;
-    width: 50px;
-    height: 100px;
-  }
+.demo-inline-5 {
+  background-color: #333;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.demo_6 {
+  background-color: lightskyblue;
+  text-align: right;
+}
+
+.demo-inline-6{
+  background-color: #333;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.large{
+  margin-right: 5px;
+  margin-left: 5px;
+  height: 100px;
+}
